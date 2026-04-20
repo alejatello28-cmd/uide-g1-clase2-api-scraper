@@ -80,8 +80,8 @@ El scraper obtiene **31 campos** por cada criptomoneda:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/crypto-scraper.git
-cd crypto-scraper
+git clone https://github.com/alejatello28-cmd/uide-g1-clase2-api-scraper.git
+cd uide-g1-clase2-api-scraper
 
 # 2. Crear entorno virtual
 python -m venv venv
@@ -194,6 +194,12 @@ Small Cap (<$1B),34,0.89,-3.12,14000000000
 ---
 
 ## 📸 Screenshots
+<img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/60c05887-5940-4101-a709-11ec11b74c17" />
+<img width="886" height="600" alt="image" src="https://github.com/user-attachments/assets/831178e7-388f-49f9-99e4-3f4d7718a399" />
+<img width="886" height="236" alt="image" src="https://github.com/user-attachments/assets/0885b160-5632-44c5-b279-30b11d8c2416" />
+
+
+
 
 ### Ejecución del scraper
 
