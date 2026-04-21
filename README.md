@@ -1,4 +1,4 @@
-<img width="1291" height="717" alt="image" src="https://github.com/user-attachments/assets/81881859-b55f-4d75-84bb-b0bb02749a5a" /><img width="1285" height="728" alt="image" src="https://github.com/user-attachments/assets/50764f64-d1be-4385-be83-be98ead1109e" /># 🪙 Crypto Scraper — Top 100 Criptomonedas
+# 🪙 Crypto Scraper — Top 100 Criptomonedas
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
