@@ -200,9 +200,9 @@ Small Cap (<$1B),34,0.89,-3.12,14000000000
 
 
 ## Datos para análisis
-### Con la data se puede realizar análisis de datos. 
+
 <img width="886" height="316" alt="image" src="https://github.com/user-attachments/assets/da523748-d1aa-47a0-842a-68914e24d5ce" />
-<img width="1285" height="728" alt="image" src="https://github.com/user-attachments/assets/fe020d63-6b28-4e0e-b1b7-3e21182ebba7" />
+<img width="886" height="316" alt="image" src="https://github.com/user-attachments/assets/fe020d63-6b28-4e0e-b1b7-3e21182ebba7" />
 
 
 ### Ejecución del scraper
