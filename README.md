@@ -1,4 +1,4 @@
-# 🪙 Crypto Scraper — Top 100 Criptomonedas
+<img width="1291" height="717" alt="image" src="https://github.com/user-attachments/assets/81881859-b55f-4d75-84bb-b0bb02749a5a" /><img width="1285" height="728" alt="image" src="https://github.com/user-attachments/assets/50764f64-d1be-4385-be83-be98ead1109e" /># 🪙 Crypto Scraper — Top 100 Criptomonedas
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
@@ -199,6 +199,10 @@ Small Cap (<$1B),34,0.89,-3.12,14000000000
 <img width="886" height="236" alt="image" src="https://github.com/user-attachments/assets/0885b160-5632-44c5-b279-30b11d8c2416" />
 
 
+## Datos para análisis
+### Con la data se puede realizar análisis de datos. 
+<img width="886" height="316" alt="image" src="https://github.com/user-attachments/assets/da523748-d1aa-47a0-842a-68914e24d5ce" />
+<img width="1285" height="728" alt="image" src="https://github.com/user-attachments/assets/fe020d63-6b28-4e0e-b1b7-3e21182ebba7" />
 
 
 ### Ejecución del scraper
